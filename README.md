@@ -7,3 +7,5 @@ To add us to your server go to our website [Darling](http://darling-bot.com)
 
 
  ![Discord PFP](https://discord.c99.nl/widget/theme-3/404336524491227149.png)
+ 
+ [img]https://discord.c99.nl/widget/theme-3/404336524491227149.png[/img]
