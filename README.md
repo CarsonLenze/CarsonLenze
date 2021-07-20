@@ -1,4 +1,6 @@
 # About
+
+[![Call-Me-Carson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Call-Me-Carson)](https://github.com/anuraghazra/github-readme-stats)
 Im a 15 y/o coder learning Node JS, HTML, and C++
 
 Im working on a discord bot called Darling. We are currently helping 62 servers!
