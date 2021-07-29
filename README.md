@@ -1,10 +1,8 @@
 # About
 
-# About me?
-
 Im a 15 y/o coder learning Node JS, HTML, and C++
 
-Im working on a discord bot called Darling. We are currently helping 77 servers and are verified!
+Im working on a discord bot called Darling. We are verified!
 
 To add us to your server go to our website [Darling](http://darling-bot.com)
 
