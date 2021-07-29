@@ -10,5 +10,3 @@ To add us to your server go to our website [Darling](http://darling-bot.com)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/404336524491227149)](https://discord.com/users/404336524491227149)
 
- ![Discord PFP](https://discord.c99.nl/widget/theme-3/404336524491227149.png)
-
