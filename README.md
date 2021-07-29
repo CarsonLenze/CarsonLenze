@@ -8,6 +8,6 @@ To add us to your server go to our website [Darling](http://darling-bot.com)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/404336524491227149)](https://discord.com/users/404336524491227149)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/404336524491227149)](https://lanyard-visualizer.netlify.app/user/404336524491227149)
+![Discord Presence](https://lanyard-visualizer.netlify.app/user/404336524491227149)
 
 
