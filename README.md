@@ -1,6 +1,6 @@
 # About
 
-[![Call-Me-Carson's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarsonLenze)](https://github.com/anuraghazra/github-readme-stats)
+# About me?
 
 Im a 15 y/o coder learning Node JS, HTML, and C++
 
