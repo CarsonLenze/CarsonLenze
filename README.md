@@ -2,8 +2,6 @@
 
 Im a 15 y/o coder learning Node JS, HTML, and C++
 
-[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
-
 Im working on a discord bot called Darling. We are verified!
 
 To add us to your server go to our website [Darling](http://darling-bot.com)
