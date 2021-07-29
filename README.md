@@ -8,6 +8,8 @@ Im working on a discord bot called Darling. We are currently helping 77 servers 
 
 To add us to your server go to our website [Darling](http://darling-bot.com)
 
+![Discord](https://discord.com/users/404336524491227149)
+
 ![Discord PFP](https://discord.c99.nl/widget/theme-3/842516423850721300.png)
 
  ![Discord PFP](https://discord.c99.nl/widget/theme-3/404336524491227149.png)
