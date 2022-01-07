@@ -1,11 +1,23 @@
-# About
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;
 
-Im a 15 y/o coder learning Node JS, HTML, and C++
+<em>I am a 15 year old softmore in high school. From very early on in my life, I enjoyed computers and technology. This has helped me develop a very good technological mindset, and given me the curiosity to learn more. I own one verified bot named [Darling](https://darling-bot.com) and I am hoping to get my other bot Dorothy verified too.
+ <br/>
+## Ask me about :computer: 
+- **Competitive Programming**
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=CarsonLenze&&show_icons=true&theme=radical"/>
+	- NodeJS ❤️
+	- Python
+	- Some C++
+	
+- **Development**
+	- HTML, CSS and Javascript
+	- Discord.js
+	- MySQL
+	- MonogoDB
+ 	- Express
 
-Im working on a discord bot called Darling. We are verified!
-
-To add us to your server go to our website [Darling](http://darling-bot.com)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/404336524491227149)](https://discord.com/users/404336524491227149)
-
-
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://nodejs.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
+<code><a href="https://discord.js.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/js_discord/js_discord-ar21.svg"></a></code>
+<br/><br/>
