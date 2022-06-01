@@ -1,6 +1,6 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;
 
-<em>I am a 16 year old softmore in high school. From very early on in my life, I loved computers and technology. This has helped me develop a very good technological mindset, and given me the curiosity to learn more. I own one verified bot named [Darling](https://darling-bot.com) and I am hoping to get my other bot Dorothy verified too.
+<em>I am a 16-year-old sophomore in high school. From very early on in my life, I loved computers and technology. This has helped me develop a very good technological mindset, and given me the curiosity to learn more. I own a verified bot named [Darling](https://darling-bot.com) and have recently gotten my other bot Dorothy, verified too.
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
