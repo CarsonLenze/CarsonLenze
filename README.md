@@ -1,15 +1,13 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;
 
-<em>I am a 16-year-old sophomore in high school. From very early on in my life, I loved computers and technology. This has helped me develop a very good technological mindset, and given me the curiosity to learn more.
-
+<em>I am a 16-year-old sophomore in high school. From very early on in my life, I loved computers and technology. This has helped me develop a very good technological mindset, and given me the curiosity to learn more. 
  <br/>
 ## Ask me about :computer: 
-	
 - **Competitive Programming**
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=CarsonLenze&&show_icons=true&theme=radical"/>
 	- NodeJS ❤️
 	- Python
-	- Typescript
+	- TypeScript
 	
 - **Development**
 	- HTML, CSS and Javascript
