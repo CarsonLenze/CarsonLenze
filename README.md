@@ -4,8 +4,8 @@
 
  <br/>
 ## Ask me about :computer: 
-- **Competitive Programming**
 	
+- **Competitive Programming**
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=CarsonLenze&&show_icons=true&theme=radical"/>
 	- NodeJS ❤️
 	- Python
