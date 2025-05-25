@@ -28,3 +28,7 @@
 <code><a href="https://nodejs.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://nodejs.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></a></code>
 <br/><br/>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=carsonlenze&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p>
