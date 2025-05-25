@@ -14,14 +14,15 @@
 <h2 align="left" id="carsonlenze-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
-<!-- 
+
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#carsonlenze-tech">
+      <!-- <a href="#carsonlenze-tech">
         <img src="./img/nodejs-original.svg" width="48" height="48" alt="Nodejs" />
       </a>
-      <br>Node JS
+      <br>Node JS -->
+      <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
     </td>
    <td align="center" width="96">
       <a href="#carsonlenze-tech">
@@ -66,7 +67,7 @@
       <br>Grafana
     </td>
   </tr>
-</table> -->
+</table>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://nodejs.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
