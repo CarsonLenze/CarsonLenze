@@ -1,6 +1,6 @@
 ### <img src="https://github.com/CarsonLenze/CarsonLenze/blob/CarsonLenze-patch-1/img/Hi.gif" width="29px"> Hello world!&nbsp;
 
-<em>I am a 19-year-old just trying to figure out how life works. From very early on in my life, I loved computers and technology. This has helped me develop a very good technological mindset, and given me the curiosity to learn more. 
+<em>I am a 20-year-old just trying to figure out how life works. From very early on in my life, I loved computers and technology. This has helped me develop a very good technological mindset, and given me the curiosity to learn more. 
  <br/>
 
 <p align="left">
